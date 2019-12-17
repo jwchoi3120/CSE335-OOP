@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Kitchen.cpp
+  KitchenButton.cpp
+  ButtonWardrobe.cpp
+  ImageHelper.cpp
+  Turkey.cpp
+  TurkeyFactory.cpp
+  TimeManagement.cpp
+  WardrobeItem.cpp
+  KitchenController.cpp
+  WorkshopLib.cpp
+  KitchenWnd.cpp
+  Generating Code...
+     Creating library C:\Users\jwcho\OneDrive\CSE335\TurkeyDay\Debug\KitchenLib.lib and object C:\Users\jwcho\OneDrive\CSE335\TurkeyDay\Debug\KitchenLib.exp
+  KitchenLib.vcxproj -> C:\Users\jwcho\OneDrive\CSE335\TurkeyDay\Debug\KitchenLib.dll
