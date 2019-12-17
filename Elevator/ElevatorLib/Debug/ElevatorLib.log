@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ElevatorWnd.cpp
+  ElevatorController.cpp
+  ElevatorLib.cpp
+  TestController.cpp
+  TimeManagement.cpp
+  Generating Code...
+     Creating library C:\Users\jwcho\OneDrive\CSE335\Elevator\Debug\ElevatorLib.lib and object C:\Users\jwcho\OneDrive\CSE335\Elevator\Debug\ElevatorLib.exp
+  ElevatorLib.vcxproj -> C:\Users\jwcho\OneDrive\CSE335\Elevator\Debug\ElevatorLib.dll
